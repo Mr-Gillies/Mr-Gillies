@@ -1,35 +1,27 @@
-# Hey, I'm Ryan
+Hey, I'm Ryan
 
 I'm learning cloud security and infrastructure as code — mostly by working with AWS, Terraform, and GitHub. I'm building small projects to help me understand how things work, and I use this space to track and share what I’m learning publicly.
 
 Later this year, I’ll be starting the **Computer Systems Technician – Networking** program and the **Cloud Development and Operations** program at **Algonquin College**, where I plan to build on what I’m already learning hands-on.
-
----
-
-## What I’m Working On
+What I’m Working On
 
 - Building secure AWS infrastructure using Terraform
 - Understanding cloud access control and encryption
 - Learning how CI/CD pipelines work using GitHub Actions
 - Improving documentation and structure as I go
 
----
-
-## What’s Next
+What’s Next
 
 - IAM permissions and audit strategies
 - Hosting a static website securely with CloudFront
 - Reusable Terraform modules for common infrastructure
 - Continued focus on cloud security best practices
 
----
-
-## Featured Project
+Featured Project
 
 **[secure-s3-terraform](https://github.com/Mr-Gillies/secure-s3-terraform)**  
 A security-focused Terraform setup for creating an encrypted, versioned, and access-restricted S3 bucket on AWS. Built as part of my self-study in cloud fundamentals and security best practices.
 
----
 
 ## Contact
 
